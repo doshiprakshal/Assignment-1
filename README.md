@@ -1,4 +1,4 @@
-# Welcome to PDOS Limited
+# Welcome to PDos Limited
 This company mainly focuses on designing and automating solutions to scale infrastructure of applications using Cloud and Kubernetes.
 
 ## <span style="color:blue">Objective</span> 
